@@ -1,0 +1,31 @@
+header {
+    margin: 0px;
+    padding: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 100px;
+    background-color: tomato;
+    height: 80px;
+    width: 260px;
+    font-weight: 400;
+  }
+  main {
+    margin: 0px;
+    padding: 60px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-left: 100px;
+    background-color: rgb(109, 207, 207);
+    max-height: 400px;
+    width: 260px;
+  }
+  #order-btn {
+    background-color: rgb(205, 225, 163);
+    padding: 10px;
+    border: none;
+    color: blue;
+  }
+  #order-btn:hover {
+    background-color: greenyellow;
+    color: black;
+  }
